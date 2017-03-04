@@ -1,0 +1,7 @@
+appdirs==1.4.2
+click==6.7
+cliCV==1.0
+colorama==0.3.7
+packaging==16.8
+pyparsing==2.1.10
+six==1.10.0
