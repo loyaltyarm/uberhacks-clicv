@@ -1,4 +1,4 @@
->clicv
+>`clicv`
 -----
 This is a small Uber Hacks university hackathon project. `clicv` allows you to create an interactive cli with your resume.
 
